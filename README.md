@@ -1,1 +1,6 @@
 # Web Scraping with NODE
+Con esta aplicacion de NODE busco demostrar como traer informacion de paginas web como amazon.
+
+- Inicialmente estara fijado a Amazon, pero se estara añadiendo otros sitios.
+## Link de ejemplo
+- http://localhost:3000/scrape?url=https://www.amazon.com/cozyide-Cushions-Kitchen-Adjustable-Non-Slip/dp/B0D8VR2Y2C/ref=sr_1_11?_encoding=UTF8%26content-id=amzn1.sym.82545daf-9a90-4f78-b3cc-f9f3e191c9ad%26dib=eyJ2IjoiMSJ9.6aglJM0A0kC105cNYNP5BDlJOfU7QS74XseJjTKbYFWFW7nPuZUn7DGXLmDysWXYvAr-wGgVzf11g0z_bh1yLPMTfnuUJiGpaAXQmSxPLjGIHs2Ls_LJAdj3S-gQjaHImgdUstc6Mry_UN7hIuLwl--0GF_Rhpu7N3y-n9hcJO5z_LzvjO0s5LNwSOEUC3ZInZbbP1tcCQ1tw-D8xbJ4OBrf-vXZmdhLnA0mm5qoqwBr4rJMsTrk6m3qH22GGeYurdwbX-8uq0fvP9HGjlOpI33v9-LS7B2Pyr8uLMBGd0c.ScZpNNZ7gPgIopgxknUeJr6xILHGcatPO2qTZfw6IC4%26dib_tag=se%26keywords=kitchen%2Band%2Bdining%26pd_rd_r=f6bddec7-c1b6-4e4b-8a0d-6407530ef0aa%26pd_rd_w=18eDd%26pd_rd_wg=GDBI4%26pf_rd_p=82545daf-9a90-4f78-b3cc-f9f3e191c9ad%26pf_rd_r=8ZJGF5PAYQ2VB8GF4ETA%26qid=1729349285%26refinements=p_36%3A-5000%26sr=8-11%26th=1&selectors=%23productTitle,.a-price .a-offscreen
